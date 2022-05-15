@@ -1,0 +1,12 @@
+.colorSet{
+color:blue;
+border: 1px solid black;
+}
+table,tr,th,td{
+    border: 1px solid black; 
+}
+@media (max-width:425px) {
+    .colorSet{
+        width:350px !important;
+    }
+}
